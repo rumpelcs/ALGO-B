@@ -7,18 +7,18 @@ repositório de algoritmos e programação B
 	- Apresentação da disciplina;
 	- Explicação de como vai funcionar (notas de aula, GitHub);
 	- Revisão Algoritmos A;
-	 * estrutura de programa,
-	 * instruções (primitivas e contable),
-	 * variáveis,
-	 * lógica;
+	 - estrutura de programa,
+	 - instruções (primitivas e contable),
+	 - variáveis,
+	 - lógica;
 	- Alexandre Zamberlan - alexz@ufn.edu.br;
 	- https://github.com/alexandrezamberlan/algoritmos;
 	- KISS (KEEP IT SIMPLE, STUPID!);
 	- ALGO B {
-		STRUCTS
-		MODULARIZAÇÃO = MÉTODOS
-		ARQUIVOS TEXTO*
-		PONTEIROS ≅ ALOCAÇÃO DINÂMICA DE MEMÓRIA
+		- STRUCTS
+		- MODULARIZAÇÃO = MÉTODOS
+		- ARQUIVOS TEXTO
+		- PONTEIROS ≅ ALOCAÇÃO DINÂMICA DE MEMÓRIA
 		}
 	- Exercicios de anos dormindo e doses de insulina;
 
