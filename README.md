@@ -36,4 +36,4 @@ repositório de algoritmos e programação B
 
 	- revisão de vetores com push_back
 	- explicação de locações em vetores
-	-apresentação de struct
+	- apresentação de struct
