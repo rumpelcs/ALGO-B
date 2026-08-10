@@ -31,3 +31,8 @@ repositório de algoritmos e programação B
 	   - C
 	   - C++ 
 	- lista de exercícios
+
+## DIA 10/08/2026
+
+	- revisão de vetores com push_back
+	- explicação de locações em vetores
