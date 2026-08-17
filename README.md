@@ -38,3 +38,8 @@ repositório de algoritmos e programação B
 	- explicação de locações em vetores
 	- apresentação de struct
 	- Atividade sobre Garagem em C++
+
+## DIA 17/08/2026
+
+	- continuação de struct
+	- lista com 10 exercicios
