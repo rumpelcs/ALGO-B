@@ -43,3 +43,8 @@ repositório de algoritmos e programação B
 
 	- continuação de struct
 	- lista com 10 exercicios
+
+
+## DIA 24/08/2026
+
+	- ler arquivos de outro endereço para usar no codigo com ifstream
