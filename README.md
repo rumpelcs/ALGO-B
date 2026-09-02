@@ -48,3 +48,8 @@ repositório de algoritmos e programação B
 ## DIA 24/08/2026
 
 	- ler arquivos de outro endereço para usar no codigo com ifstream
+
+## DIA 31/08/2026
+	- primeira avaliação:
+		2 exercícios de struct
+		1 código para uma biblioteca
