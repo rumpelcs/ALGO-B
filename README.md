@@ -75,14 +75,4 @@ repositório de algoritmos e programação B
 	- correção da prova
 
 
-comunicação de dados 40h (CC, SI)
-engenharia e requisitos de software 80h (CC)
-estrutura de dados 80h (CC, SI)
-lógica para computação 40h (CC)
-programação orientada a objetos 80h (CC, SI)
-projeto de banco de dados 80h (CC, SI)
-calculo numérico e computacional 40h (CC)
-inteligência artificial 80h (CC, SI, JD)
-projeto de software 80h (CC, SI)
-eletiva 40h
-computação gráfica 80h (CC, JD)
+
