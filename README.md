@@ -47,9 +47,29 @@ repositório de algoritmos e programação B
 
 ## DIA 24/08/2026
 
-	- ler arquivos de outro endereço para usar no codigo com ifstream
+	- ler arquivos de outro endereço para usar no codigo com #include <fstream> - ifstream
 
 ## DIA 31/08/2026
 	- primeira avaliação:
 		2 exercícios de struct
 		1 código para uma biblioteca
+
+## DIA 14/09/2026
+	- arquivos -> conversação entre sistemas
+
+	- sistema computacional:
+		programa -> variáveis	 |	arquivo (json, csv, sgbd)
+		_________________________|____________________
+		memória principal/RAM	 |  memória secundaria (HD, SSD...)
+					procurador ----> arquivo
+				file ---endereço fisico---> arquivo
+						    ponteiro
+
+		- procurador_leitor
+		- procurador_escritor
+
+	- ler
+	- escrever -> write (novo)
+			   -> append (adiciona na fila)
+
+	- correção da prova
