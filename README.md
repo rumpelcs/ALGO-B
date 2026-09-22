@@ -74,5 +74,10 @@ repositório de algoritmos e programação B
 
 	- correção da prova
 
+## DIA 21/09/2026
+
+	- IA generativa
+	- código que lê arquivo de stop words, e escreve em outro
+	
 
 
