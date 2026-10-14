@@ -148,3 +148,13 @@ repositório de algoritmos e programação B
                 	if (metodo(3,x) == true) {
                     
                 	}
+## DIA 14/10/2026
+
+	- Métodos
+		- Procedimentos = sem retorno = void
+		- Funções 		= com retorno = return
+
+		void metodo(){
+		<tipo> metodo(){
+
+		return <tipo>valor;
