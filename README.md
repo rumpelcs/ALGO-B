@@ -158,3 +158,13 @@ repositório de algoritmos e programação B
 		<tipo> metodo(){
 
 		return <tipo>valor;
+
+## DIA 26/10/2026
+
+	- Correção da prova
+	- Adição de arquivo na prova
+
+	- Trabalho final:
+		* Escolher um contexto para fazer uma listagem com vetor de struct e arquivo
+		* Menu, listar, adicionar, etc...
+		* Apresentar pro professor até o final do semestre 
